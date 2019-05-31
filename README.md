@@ -151,10 +151,7 @@ https://www.w3schools.com/css/css_positioning.asp
 }
 ```
 
-### 8
-
-
-## CSS Resources
+### 8 CSS Resources
 
 ### CSS Viewport
 ### https://www.sitepoint.com/css-viewport-units-quick-start/

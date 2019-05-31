@@ -85,14 +85,14 @@ file and add in the following class to your CSS
 ```
 At this point you should see your image. 
 
-### Big right? this is because we set our hight to 95vh 
-### Feel free to play around with this 
+Big right? this is because we set our hight to 95vh 
+Feel free to play around with this 
 
-###  Linear-gradient
+Linear-gradient
 
-### "The linear-gradient() CSS function creates an image consisting of a progressive transition between two or more colors along a straight line. Its result is an object of the <gradient> data type, which is a special kind of <image>."
+"The linear-gradient() CSS function creates an image consisting of a progressive transition between two or more colors along a straight line. Its result is an object of the <gradient> data type, which is a special kind of <image>."
 
-### To do this you will need to add the following on this line
+To do this you will need to add the following on this line
 
 before 
 ```
@@ -105,16 +105,17 @@ and after
   background-image: linear-gradient(to right bottom,#30303000, #303030b7), url(../images/beautiful-blur-bright-326055.jpg);
 ```
  
-### 6 clip path
-### Clipping is when we trim a piece from something. In our case, it is an operation which allows us to completely or partially hide elements on a web page. Two other concepts that relate to clipping which we will use in this article are clipping path and clipping region.
+ 6 clip path
+
+Clipping is when we trim a piece from something. In our case, it is an operation which allows us to completely or partially hide elements on a web page. Two other concepts that relate to clipping which we will use in this article are clipping path and clipping region.
 
 ```
 clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100% )
 ```
-### Try out other shaps on  https://bennettfeely.com/clippy/
+Try out other shaps on  https://bennettfeely.com/clippy/
 
 
-### 7 Adding a logo.png and a div with class 
+ 7 Adding a logo.png and a div with class 
 Back to your
 
 ````
@@ -151,24 +152,24 @@ https://www.w3schools.com/css/css_positioning.asp
 }
 ```
 
-### 8 CSS Resources
+# CSS Resources
 
-### CSS Viewport
-### https://www.sitepoint.com/css-viewport-units-quick-start/
+ CSS Viewport
+ https://www.sitepoint.com/css-viewport-units-quick-start/
 
-### shapes
-###  https://bennettfeely.com/clippy/
-###  https://www.sitepoint.com/introducing-css-clip-path-property/
+ shapes
+  https://bennettfeely.com/clippy/
+  https://www.sitepoint.com/introducing-css-clip-path-property/
 
-### https://developer.mozilla.org/en-US/docs/Web/CSS/inherit
+ https://developer.mozilla.org/en-US/docs/Web/CSS/inherit
 
-###  css * Selector
-### - https://www.w3resource.com/css/selectors/CSS-universal-selector.php
+ css * Selector
+ - https://www.w3resource.com/css/selectors/CSS-universal-selector.php
 
-### box-sizing
-### - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+ box-sizing
+ - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 
-### - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts
 
-### how to add custom font 
-### - https://www.balbooa.com/knowledgebase/32-documentation-faq-joomla/176-how-to-add-custom-font-to-website-through-fontface
+ how to add custom font 
+ - https://www.balbooa.com/knowledgebase/32-documentation-faq-joomla/176-how-to-add-custom-font-to-website-through-fontface

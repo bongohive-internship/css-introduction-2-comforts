@@ -2,35 +2,35 @@
 
 What you will learn 
 
-### In this section will set 
+### In this section will set:  
 
 
-## - Header image
+- [ ] Header image
 
-## - Nav bar 
+- [ ] Nav bar 
 
-### Using basic reset with CSS universal selectors select any type of elements in an HTML page. It matches a single element. An asterisk ( i.e. "*" ) is used to denote a CSS universal selector. An asterisk can also be followed by a selector. This is useful when you want to set a style for of all the elements of an HTML page or for all of the elements within an element of an HTML page. 
+> Using basic reset with CSS universal selectors select any type of elements in an HTML page. It matches a single element. An asterisk ( i.e. "*" ) is used to denote a CSS universal selector. An asterisk can also be followed by a selector. This is useful when you want to set a style for of all the elements of an HTML page or for all of the elements within an element of an HTML page. 
 
-### in the main.css file add the following
-```
+**In the main.css file add the following**
+```css
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 ```
-### The box-sizing CSS property sets how the total width and height of an element is calculated.
+**The box-sizing CSS property sets how the total width and height of an element is calculated.**
 
 
-```
+```html
 <header class="header">
-hello world
+    hello world
 </header>
 ```
 
-### The inherit CSS keyword causes the element for which it is specified to take the computed value of the property from its parent element. It can be applied to any CSS property, including the CSS shorthand all.
+> The inherit CSS keyword causes the element for which it is specified to take the computed value of the property from its parent element. It can be applied to any CSS property, including the CSS shorthand all.
 
-### 2. Next is importing your font file in your css
+###  Next is importing your font file in your css
  
 ```
 @font-face {
@@ -38,9 +38,9 @@ hello world
     src: url("../fonts/Roboto-Regular.ttf");
 }
 ```
-### 3. Inherit in CSS
+### Inherit in CSS
 
-### Using inherit in CSS. We use CSS inherit to have your sitting span over in your all your tags under the tag body. it good practice doing so.
+>  Using inherit in CSS. We use CSS inherit to have your sitting span over in your all your tags under the tag body. it good practice doing so.
 
 ```
 body {
@@ -53,7 +53,7 @@ body {
 ```
 
  
-### 4. Header image 
+### Header image 
 
 in your 
 
@@ -88,7 +88,7 @@ At this point you should see your image.
 ### Big right? this is because we set our hight to 95vh 
 ### Feel free to play around with this 
 
-### 5 Linear-gradient
+###  Linear-gradient
 
 ### "The linear-gradient() CSS function creates an image consisting of a progressive transition between two or more colors along a straight line. Its result is an object of the <gradient> data type, which is a special kind of <image>."
 

@@ -155,11 +155,11 @@ https://www.w3schools.com/css/css_positioning.asp
 # CSS Resources
 
  CSS Viewport
- https://www.sitepoint.com/css-viewport-units-quick-start/
+- https://www.sitepoint.com/css-viewport-units-quick-start/
 
  shapes
-  https://bennettfeely.com/clippy/
-  https://www.sitepoint.com/introducing-css-clip-path-property/
+ - https://bennettfeely.com/clippy/
+ - https://www.sitepoint.com/introducing-css-clip-path-property/
 
  https://developer.mozilla.org/en-US/docs/Web/CSS/inherit
 

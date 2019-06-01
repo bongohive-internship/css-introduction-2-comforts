@@ -2,12 +2,17 @@
 
 What you will learn 
 
-### In this section will set:  
-
-
+### In this section your assignment is to set:  
+ 
 - [ ] Header image
 
 - [ ] Nav bar 
+
+bonus
+
+- [ ] using Animate.css  https://daneden.github.io/animate.css/ 
+
+you are free use any of the concepts below
 
 > Using basic reset with CSS universal selectors select any type of elements in an HTML page. It matches a single element. An asterisk ( i.e. "*" ) is used to denote a CSS universal selector. An asterisk can also be followed by a selector. This is useful when you want to set a style for of all the elements of an HTML page or for all of the elements within an element of an HTML page. 
 

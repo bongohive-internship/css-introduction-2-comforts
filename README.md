@@ -137,7 +137,8 @@ will add
 ```
 next we need to position of your loge read up from  
 
-###CSS Layout - The position Property
+ **CSS Layout - The position Property**
+ 
 https://www.w3schools.com/css/css_positioning.asp
 ```
 .logo-box {
@@ -152,7 +153,8 @@ https://www.w3schools.com/css/css_positioning.asp
 }
 ```
 
-# CSS Resources
+### CSS Resources
+> very important to read
 
  CSS Viewport
 - https://www.sitepoint.com/css-viewport-units-quick-start/
